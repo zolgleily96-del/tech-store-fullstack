@@ -1,0 +1,21 @@
+/* Tailwind CSS را وارد پروژه می‌کند */
+@import "tailwindcss";
+
+/* کامپوننت‌های daisyUI را فعال می‌کند */
+@plugin "daisyui";
+
+/*
+  تنظیمات عمومی سایت
+  این بخش روی کل سایت اعمال می‌شود.
+*/
+html {
+  scroll-behavior: smooth;
+}
+
+/*
+  ظاهر اصلی body سایت
+*/
+body {
+  margin: 0;
+  min-height: 100vh;
+}

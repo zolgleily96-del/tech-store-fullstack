@@ -1,0 +1,15 @@
+# Next.js
+tech-store/node_modules/
+tech-store/.next/
+tech-store/out/
+
+# Django
+tech-store-backend/__pycache__/
+tech-store-backend/**/*.pyc
+tech-store-backend/.env
+
+# Django media
+tech-store-backend/media/
+
+# Logs
+*.log

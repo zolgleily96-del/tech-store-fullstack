@@ -1,0 +1,22 @@
+# Node
+node_modules/
+.next/
+out/
+
+# Django
+__pycache__/
+*.pyc
+.env
+*.sqlite3
+
+# Virtual env
+venv/
+.venv/
+
+# Docker
+postgres_data/
+
+# OS
+.vscode/
+.idea/
+.DS_Store
